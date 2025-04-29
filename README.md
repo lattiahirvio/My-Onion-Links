@@ -162,16 +162,16 @@
   <p>Read <a href="https://tb-manual.torproject.org" target="_blank" rel="noopener noreferrer">Tor Browser User Manual</a> for information on how to use Tor. Consider using secure systems, in order of complexity and resource intensity: <a href="https://tails.net/">Tails</a>, <a href="https://www.whonix.org/">Whonix</a> and <a href="https://www.qubes-os.org/">Qubes</a>.
   
 <ul>
-  <li>Tails easy install script from Debian based systems: <a href="https://github.com/RENANZG/My-Onion-Links/blob/main/tails_install.sh">tails_install.sh</a>.</li>
-  <li>Tails easy install script from Windows: <a href="https://github.com/RENANZG/My-Onion-Links/blob/main/tails_install.sh">tails_install.ps1</a>.
+  <li>Tails easy install script from Debian based systems: <a href="https://github.com/lattiahirvio/My-Onion-Links/blob/main/tails_install.sh">tails_install.sh</a>.</li>
+  <li>Tails easy install script from Windows: <a href="https://github.com/lattiahirvio/My-Onion-Links/blob/main/tails_install.sh">tails_install.ps1</a>.
   </li>
 </ul>
 
-  <p>If you wish, send improvements to: <a href="https://github.com/RENANZG/My-Onion-Links/discussions/2">My-Onion-Links Discussions</a></p>
+  <p>If you wish, send improvements to: <a href="https://github.com/lattiahirvio/My-Onion-Links/discussions/2">My-Onion-Links Discussions</a></p>
 
   <h4>Bookmarks</h4>
 
-  <p>Ready-to-import bookmarks: <a href="https://github.com/RENANZG/My-Onion-Links/blob/main/Import_Bookmarks_from_HTML.html">Import_Bookmarks_from_HTML.html</a></p>
+  <p>Ready-to-import bookmarks: <a href="https://github.com/lattiahirvio/My-Onion-Links/blob/main/Import_Bookmarks_from_HTML.html">Import_Bookmarks_from_HTML.html</a></p>
 
   <hr>
   <!-- ############################################################ -->
@@ -1662,7 +1662,7 @@ https://kpmg.com/us/en/frv/reference-library/handbooks.html
 
   <div id="footer">
 
-  <p align="right"><a href="https://github.com/RENANZG/My-Onion-Links?tab=readme-ov-file#">Back to Top ⬆</a></p>
+  <p align="right"><a href="https://github.com/lattiahirvio/My-Onion-Links?tab=readme-ov-file#">Back to Top ⬆</a></p>
   <br>
   <br>
   <br>
