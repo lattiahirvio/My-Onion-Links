@@ -840,6 +840,10 @@
         <a href="http://darknetlidvrsli6iso7my54rjayjursyw637aypb6qambkoepmyq2yd.onion/post/the-hitchhiker-s-guide-to-pgp">The Hitchhiker's Guide to PGP</a>
         <pre><code>http://darknetlidvrsli6iso7my54rjayjursyw637aypb6qambkoepmyq2yd.onion/post/the-hitchhiker-s-guide-to-pgp</code></pre>
       </li>
+         <li>
+        <a href="http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion">OPSEC Bible</a>
+        <pre><code>http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/</code></pre>
+      </li>
       <li>
         <a href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion">DNM Bible</a>
         <pre><code>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion</code></pre>
