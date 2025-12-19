@@ -709,6 +709,10 @@
       <h3>SEARCH ENGINES</h3></li>
     <ul>
       <li>
+        <a href="http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/">tor.taxi</a>
+        <pre><code>http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/</code></pre>
+      </li>
+      <li>
         <a href="http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion">DuckDuckGo</a>
         <pre><code>http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion</code></pre>
       </li>
