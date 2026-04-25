@@ -1382,7 +1382,7 @@
       </li>
       <li>
         <a href="https://annas-archive.org">Anna's Archive</a>
-        <pre><code>https://annas-archive.org</code></pre>
+        <pre><code>https://annas-archive.gl</code></pre>
       </li>
       <li>
         <a href="https://go-to-zlibrary.se/#desktop_app_tab">Z-Library (APP)</a>
