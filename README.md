@@ -1460,6 +1460,10 @@
         <a href="http://tcecdnp2fhyxlcrjoyc2eimdjosr65hweut6y7r2u6b5y75yuvbkvfyd.onion">National Police of the Netherlands</a>
         <pre><code>http://tcecdnp2fhyxlcrjoyc2eimdjosr65hweut6y7r2u6b5y75yuvbkvfyd.onion</code></pre>
       </li>
+      <li>
+        <a href="http://lwc7tszawiykmkjoq4u2yxramezkwbdys2wxr2fmf6sdr6ug5t36ckqd.onion">Longevity World Cup</a>
+        <pre><code>http://lwc7tszawiykmkjoq4u2yxramezkwbdys2wxr2fmf6sdr6ug5t36ckqd.onion</code></pre>
+      </li>
     </ul>
     <li>
       <h3>CHANS</h3></li>
